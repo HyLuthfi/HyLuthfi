@@ -79,7 +79,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HyLuthfi/HyLuthfi/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
-  <sub><i>*The grid snake animation requires setting up a <a href="https://github.com/Platane/snk">GitHub Action</a> to run daily.*</i></sub>
 </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
